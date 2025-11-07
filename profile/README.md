@@ -1,12 +1,7 @@
-## Hi there 👋
+We are graduate researchers in the [Sonification Lab](http://sonify.psych.gatech.edu/) at [Georgia Tech](https://scs.gatech.edu/), studying and engineering diverse forms of intelligence.
 
-<!--
+Our work focuses on creating AI systems and tools that help measure, train, and facilitate interactions across difference — including humans with atypical sensory or cognitive profiles (such as neurodivergence), bioengineered organisms, basal intelligence systems like cellular collectives, and other nontraditional intelligences.
 
-**Here are some ideas to get you started:**
+💻 🧮 🦠 🧬 🐙 👾 🧠
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#unconventional-computing #diverse-intelligence
