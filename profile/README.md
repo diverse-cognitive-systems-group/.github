@@ -8,6 +8,6 @@ Our work focuses on creating AI systems and tools that help measure, train, and 
 
 <p align="center">
   <a href="https://youtu.be/dFMEcNPXbFE">
-    <img src="https://img.youtube.com/vi/dFMEcNPXbFE/maxresdefault.jpg" alt="Video" />
+    <img width="400" src="https://img.youtube.com/vi/dFMEcNPXbFE/maxresdefault.jpg" alt="Video" />
   </a>
 </p>
