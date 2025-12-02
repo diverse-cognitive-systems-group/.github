@@ -6,4 +6,8 @@ Our work focuses on creating AI systems and tools that help measure, train, and 
 
 #unconventional-computing #diverse-intelligence
 
-[![Research Overview](https://img.youtube.com/vi/dFMEcNPXbFE/hqdefault.jpg)](https://youtu.be/dFMEcNPXbFE)
+<p align="center">
+  <a href="https://youtu.be/dFMEcNPXbFE">
+    <img src="https://img.youtube.com/vi/dFMEcNPXbFE/maxresdefault.jpg" alt="Video" />
+  </a>
+</p>
