@@ -2,6 +2,8 @@ We are graduate researchers in the [Sonification Lab](http://sonify.psych.gatech
 
 Our work focuses on creating AI systems and tools that help measure, train, and facilitate interactions across difference — including humans with atypical sensory or cognitive profiles (such as neurodivergence), bioengineered organisms, basal intelligence systems like cellular collectives, and other nontraditional intelligences.
 
+[![Research Overview](https://img.youtube.com/vi/dFMEcNPXbFE/hqdefault.jpg)](https://youtu.be/dFMEcNPXbFE)
+
 💻 🧮 🦠 🧬 🐙 👾 🧠
 
 #unconventional-computing #diverse-intelligence
